@@ -1,0 +1,99 @@
+html {
+  font-size: 16px;
+}
+body {
+  overflow-x: hidden;
+  background-color: #f2f2f2;
+  
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 16px;
+  color: #555;
+  
+  -webkit-font-smoothing: antialiased; // сделает фон более округлым при масштабировании
+  -webkit-overflow-scrolling: touch; // позволит скролить тачскрином
+  
+  margin-top: 70px;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Ubuntu";
+  font-weight: 300;
+  color: #333;
+}
+p {
+  line-height: 28px;
+  margin-bottom: 25px;
+}
+.centered {
+  text-align: center;
+}
+a {
+  color: #f85c37 !important;
+  &:hover, &:focus {
+    color: #7b7b7b !important;
+    text-decoration: none;
+    outline: #000;
+  }
+}
+
+.wrapper {
+  max-width: 1440px;
+  margin: 0 auto;
+  
+  height: 100%;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.82);
+  -moz-box-shadow:    0px 0px 15px 0px rgba(50, 50, 50, 0.82);
+  box-shadow:         0px 0px 15px 0px rgba(50, 50, 50, 0.82);
+  margin-bottom: 20px;
+}
+.content {
+  width: 100%;
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+.footer {
+  -webkit-flex: 0 0 auto;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.navbar {
+  width: 100%;
+  font-weight: 700;
+  font-size: 14px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  position: fixed !important;
+  z-index: 999;
+  max-width: 1440px;
+  background-color: #f8f8f8;
+}
+.navbar-header {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  
+}
+.logo-img {
+  width: 100%;
+  max-width: 446px;
+  height: auto;
+  max-height: 135px;
+}
+.navbar {
+  position: relative!important;
+}

@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12e522cd-1bd2-4ff8-9fe3-7ef957a7c71a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/scss/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/scss/js-landing+hash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/.hound.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/.houndignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/.htmlhintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_data/breakpoints.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_data/browser-bugs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_data/browser-features.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_data/core-team.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_data/nav.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_data/showcase.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_data/translations.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/callout-warning-color-assistive-technologies.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/nav-docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/nav-home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/page-headers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_includes/social.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_layouts/docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_layouts/simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_plugins/bridge.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_plugins/bugify.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_plugins/callout.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_plugins/highlight_alt.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/_plugins/markdown-block.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/about/brand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/about/history.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/about/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/about/team.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/about/translations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/brand/bootstrap-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/brand/bootstrap-punchout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/brand/bootstrap-social-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/brand/bootstrap-social.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/brand/bootstrap-solid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/css/docs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/css/docs.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/bs-themes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/components.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/devices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/expo-lyft.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/expo-newsweek.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/expo-riot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/expo-vogue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/img/sass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/docs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/ie-emulation-modes-warning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/ie10-viewport-bug-workaround.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/src/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/vendor/anchor.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/vendor/clipboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/vendor/holder.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/vendor/jekyll-search.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/vendor/jquery-slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/js/vendor/tether.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_ads.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_anchor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_booticon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_brand.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_browser-bugs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_callouts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_clipboard-js.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_component-examples.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_examples.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_featured-sites.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_featurettes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_masthead.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_page-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_responsive-tests.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_skiplink.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_syntax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/_team.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/assets/scss/docs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/browser-bugs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/alerts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/badge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/breadcrumb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/button-group.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/buttons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/card.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/carousel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/collapse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/dropdowns.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/forms.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/input-group.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/jumbotron.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/list-group.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/modal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/navbar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/navs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/pagination.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/popovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/progress.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/scrollspy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/components/tooltips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/content/code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/content/figures.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/content/images.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/content/reboot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/content/tables.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/content/typography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/album/album.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/album/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/blog/blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/carousel/carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/carousel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/cover/cover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/cover/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/dashboard/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/dashboard/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/grid/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/grid/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/jumbotron/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/jumbotron/jumbotron.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/justified-nav/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/justified-nav/justified-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/narrow-jumbotron/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/narrow-jumbotron/narrow-jumbotron.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/navbar-top-fixed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/navbar-top-fixed/navbar-top-fixed.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/navbar-top/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/navbar-top/navbar-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/navbars/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/navbars/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/offcanvas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/offcanvas/offcanvas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/offcanvas/offcanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/album.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/carousel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/dashboard.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/equal-height-columns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/grid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/jumbotron-narrow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/jumbotron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/justified-nav.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/navbar-fixed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/navbar-static.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/navbar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/non-responsive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/offcanvas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/sign-in.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/starter-template.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/sticky-footer-navbar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/sticky-footer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/screenshots/theme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/signin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/signin/signin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/starter-template/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/starter-template/starter-template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/sticky-footer-navbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/sticky-footer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/sticky-footer/sticky-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/tooltip-viewport/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/tooltip-viewport/tooltip-viewport.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/examples/tooltip-viewport/tooltip-viewport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/extend/approach.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/extend/icon-fonts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/extend/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/accessibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/best-practices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/browsers-devices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/build-tools.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/contents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/download.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/introduction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/javascript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/getting-started/options.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/layout/grid.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/layout/media-object.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/layout/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/layout/responsive-utilities.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/migration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/search.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/borders.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/clearfix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/close-icon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/colors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/display-property.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/flexbox.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/image-replacement.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/invisible-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/position.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/responsive-helpers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/screenreaders.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/sizing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/spacing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/typography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/docs/utilities/vertical-align.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/grunt/change-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/grunt/configBridge.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/grunt/gcp-key.json.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/grunt/npm-shrinkwrap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/grunt/postcss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/grunt/sauce_browsers.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/grunt/upload-preview.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/alert.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/button.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/carousel.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/collapse.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/dropdown.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/modal.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/popover.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/scrollspy.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/tab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/tooltip.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/dist/util.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/src/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/phantom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/unit/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/vendor/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/vendor/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/dropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/popover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/scrollspy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/tab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/js/tests/visual/tooltip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/nuget/MyGet.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/nuget/bootstrap.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/nuget/bootstrap.sass.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/package.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/sache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/.scss-lint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_responsive-embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_navbar-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_transforms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/bootstrap-4.0.0-alpha.6/bootstrap-4.0.0-alpha.6/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist" beforeDir="false" afterPath="$PROJECT_DIR$/dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61234">
+              <caret line="3602" selection-start-line="3602" selection-end-line="3610" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/assets/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="48" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js-landing+hash.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/js/js-landing+hash.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>arrow_bott</find>
+      <find>arrowDown</find>
+      <find>arrow</find>
+      <find>scrollTop</find>
+      <find>arrowDown__link</find>
+      <find>top</find>
+    </findStrings>
+    <dirStrings>
+      <dir>G:\web\www\simplePortfolio\dist\assets\js</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/dist/assets/js/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/are-we-there-yet/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/browser-sync/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/bubleify/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/cross-spawn/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/css/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/dashdash/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/easy-extender/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/engine.io-client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/engine.io-parser/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/engine.io/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/express/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/fs-extra/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/fstream/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/gauge/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/getpass/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/glob-stream/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/globule/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/gulp-uglify/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/isobject/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/jsonfile/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/jsprim/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/klaw/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/load-json-file/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/meow/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/mkdirp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/node-gyp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/node-sass/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/opn/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/path-type/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/postcss/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/readdirp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/resp-modifier/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/rimraf/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/sass-graph/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/send/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/socket.io-adapter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/socket.io-client/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/socket.io/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/sshpk/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/stdout-stream/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/through2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/uglify-js/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/vinyl-fs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/vinyl-sourcemaps-apply/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/yargs-parser/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules-windows/yargs/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules-windows/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/accepts/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/acorn-jsx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/acorn-object-spread/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/acorn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/after/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ajv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/align-text/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/aproba/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/archy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/are-we-there-yet/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/are-we-there-yet/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/are-we-there-yet/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/array-differ/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/arrify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/asn1/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/async-each-series/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/async-each/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/async-foreach/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/async/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/atob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/aws4/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/backo2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/base64id/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/batch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/beeper/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/blob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/block-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/boom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/braces/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browser-sync-client/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browser-sync-ui/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browser-sync/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browser-sync/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browser-sync/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browser-sync/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browser-sync/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/grunt.html.injection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/grunt.sass.autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/grunt.sass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/gulp.browserify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/gulp.pug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/gulp.ruby.sass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/gulp.sass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/gulp.swig/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/gulp.task.sequence/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/html.injection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/middleware.css.injection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/proxy.custom-css/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/server.gzipped.assets/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/server.includes/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/server.middleware/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/server/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/webpack.babel/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/webpack.monkey-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/webpack.preact-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/webpack.react-hot-loader/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/webpack.react-transform-hmr/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/webpack.typescript.react/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bs-recipes/recipes/webpack.typescript/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/buble/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bubleify/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/bubleify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/callsite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/caniuse-lite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/caseless/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/center-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/chalk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/cliui/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/clone-stats/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/clone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/co/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/connect/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/cross-spawn/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/css/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/dateformat/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/defaults/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/delegates/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/depd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/deprecated/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/destroy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/detect-file/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/dev-ip/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/duplexer2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/easy-extender/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/easy-extender/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/eazy-logger/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/emitter-steward/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io-parser/node_modules/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/etag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/expand-tilde/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/express/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/express/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/express/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/extend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/extglob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fancy-log/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/find-index/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/find-up/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/findup-sync/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fined/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/first-chunk-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/flagged-respawn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/for-in/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/for-own/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/form-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/formidable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fresh/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fs-exists-sync/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fs-extra/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fstream/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/fstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gauge/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gauge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gaze/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/generate-function/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/generate-object-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/getpass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob-stream/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob-watcher/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glob2base/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/global-modules/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/global-prefix/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/globule/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/globule/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/globule/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/globule/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/globule/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/glogg/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/group-css-media-queries/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulp-autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulp-group-css-media-queries/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulp-sass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulp-uglify/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulp-uglify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulp-util/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/gulplog/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/has-gulplog/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/hawk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/hoek/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/homedir-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/immutable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/in-publish/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/in-publish/test/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/indexof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/inflight/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/inherits/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ini/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/interpret/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-my-json-valid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-number-like/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-number/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-property/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-relative/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-unc-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/isexe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/isobject/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/isobject/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/isstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jodid25519/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/json3/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jsonfile/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jsonpointer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/klaw/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/klaw/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lcid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/liftoff/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/limiter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/load-json-file/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/load-json-file/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/node-uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/localtunnel/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._basecopy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._basetostring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._basevalues/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._getnative/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._isiterateecall/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._reescape/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._reevaluate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._reinterpolate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash._root/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.assignwith/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.clonedeep/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.escape/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.isarguments/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.isempty/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.isfinite/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.isplainobject/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.isstring/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.keys/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.mapvalues/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.mergewith/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.pick/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.restparam/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.template/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash.templatesettings/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/longest/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/magic-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/make-error-cause/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/make-error/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/meow/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/meow/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/mime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/multipipe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/nan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/natives/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-gyp/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-gyp/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-gyp/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-gyp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-gyp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-sass/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-sass/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-sass/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-sass/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-sass/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/node-sass/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/nopt/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/object-component/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/object-path/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/once/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/openurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/opn/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/opn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/options/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/orchestrator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ordered-read-streams/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/osenv/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parse-filepath/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parse-passwd/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parsejson/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/path-root-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/path-root/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/path-type/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/path-type/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/pify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/portscanner/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/postcss/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/postcss/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/postcss/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/preserve/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/pretty-hrtime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/punycode/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/qs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readdirp/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readdirp/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readdirp/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readdirp/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readdirp/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/rechoir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/redent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/repeating/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/replace-ext/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/request/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resolve-dir/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resolve/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resp-modifier/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/resp-modifier/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/right-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/rimraf/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/rimraf/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/rx/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sass-graph/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sass-graph/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sass-graph/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sass-graph/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/scss-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/semver/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/send/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sequencify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/server-destroy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sigmund/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/smart-grid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sntp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-adapter/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-adapter/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-client/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-client/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sparkles/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sshpk/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/statuses/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/stdout-stream/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/stdout-stream/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/stdout-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/stdout-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/stream-consume/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/stream-throttle/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/string-width/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/stringstream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/tar/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/tfunk/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/through2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/through2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/through2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/through2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/tildify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/to-array/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uglify-js/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uglify-js/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uglify-save-license/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ultron/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/unc-path-regex/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/underscore/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/unique-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/urix/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/user-home/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/uuid/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/v8flags/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/verror/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl-fs/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl-fs/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl-fs/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl-fs/node_modules/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl-fs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl-sourcemaps-apply/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl-sourcemaps-apply/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vinyl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/vlq/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/weinre/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/which-module/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/which/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/window-size/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/ws/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/wtf-8/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/xtend/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/y18n/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/yallist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/yargs-parser/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/yargs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules-windows/yeast/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="simplePortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplePortfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplePortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplePortfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplePortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplePortfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="simplePortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simplePortfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12e522cd-1bd2-4ff8-9fe3-7ef957a7c71a" name="Default" comment="" />
+      <created>1547347866525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547347866525</updated>
+      <workItem from="1547347884533" duration="6615000" />
+      <workItem from="1548342521129" duration="2781000" />
+      <workItem from="1548557484554" duration="1461000" />
+      <workItem from="1548560025820" duration="944000" />
+      <workItem from="1548723518535" duration="697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12498000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16979167" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61234">
+          <caret line="3602" selection-start-line="3602" selection-end-line="3610" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/js/js-landing+hash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61234">
+          <caret line="3602" selection-start-line="3602" selection-end-line="3610" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/js/js-landing+hash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="81" column="42" selection-start-line="80" selection-start-column="36" selection-end-line="81" selection-end-column="42" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61234">
+          <caret line="3602" selection-start-line="3602" selection-end-line="3610" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/js/script1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2093" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61234">
+          <caret line="3602" selection-start-line="3602" selection-end-line="3610" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/js/js-landing+hash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

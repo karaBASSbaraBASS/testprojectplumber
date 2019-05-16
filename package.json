@@ -1,0 +1,36 @@
+{
+  "name": "simplePortfolio",
+  "version": "1.0.0",
+  "description": "Project on Bootstrap 4",
+  "main": "/dist/home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gellertyevhen@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.2.1",
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "imagemin-gifsicle": "^6.0.1",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "imagemin-pngquant": "^7.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  },
+  "dependencies": {
+    "gulp-csso": "^3.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
