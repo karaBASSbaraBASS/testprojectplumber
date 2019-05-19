@@ -27,5 +27,5 @@ yarn-error.log*
 /service-key.js
 
 # duplicates
-/dist/assets/img/*.png
-/dist/assets/img/*.psd
+dist/assets/img/*.png
+dist/assets/img/*.psd
