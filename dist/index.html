@@ -18,6 +18,8 @@
     <meta name="theme-color" content="#ffffff">
     <!-- favicon settings end -->
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"/> -->
+    <!-- fonts from google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Raleway:400,700&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -29,37 +31,64 @@
                         <a href="#" class="navbar-brand">
                             <img src="assets/img/logoPlumber.png" alt="logo-img" class="logo-img">
                         </a>
-                       
-                        
                     </div>
                     
                 </div>
             </nav>
 
-            <section  data-section="home" class="sectionFirst">
-                <div class="row d-flex justify-content-center">
-                    <div id="headerWrap" class="container headerMain ">
-                    </div>
-                    <div class="centered flex-column col-lg-6 col-md-10 col-sm-12 mainAbout">
-                        <div class="aboutUs">
-                            <h1 class="mainHeading">servicing SYDNEY</h1>
-                            <div class="quotesBlock">
-                                <p class="quotesBlock_content">
-                                    “We are very pleased with your plumbers Tom and 
-                                    David and the repair they did to the sewer 
-                                    pipe inside a kitchen cupboard. It was a 
-                                    very difficult job to do. We were 
-                                    impressed with their promptness and 
-                                    professionalism.”
-                                </p>
-                                <span class="quotesBlock_caption">
-                                    <span class="quotesBlock_autorName">Roslyn,</span>
-                                    <span class="quotesBlock_autorSecName">Cammeray</span>
-                                </span>
+            <section  data-section="home" class="sectionFirst d-flex justify-content-center">
+                <div class="row container">
+                    
+                        <div class="centered flex-column col-lg-6 col-md-10 col-sm-12 mainAbout">
+                            <div class="aboutUs">
+                                <h1 class="mainHeading">servicing SYDNEY</h1>
+                                <div class="quotesBlock">
+                                    <p class="quotesBlock_content quote">
+                                        “We are very pleased with your plumbers Tom and 
+                                        David and the repair they did to the sewer 
+                                        pipe inside a kitchen cupboard. It was a 
+                                        very difficult job to do. We were 
+                                        impressed with their promptness and 
+                                        professionalism.”
+                                    </p>
+                                    <span class="quotesBlock_caption">
+                                        -
+                                        <span class="quotesBlock_autorName red name">Roslyn,</span>
+                                        <span class="quotesBlock_autorSecName secName">Cammeray</span>
+                                    </span>
+                                </div>
+                                <button class="ctaButton">
+                                    <img src="assets/img/button_furniture_left.png" alt="button furniture left">
+                                    <span>CALL US - 1800 620 227</span>
+                                    <img src="assets/img/button_furniture_right.png" alt="button furniture right">
+                                </button>
                             </div>
-                        </div>
+                            <img class="flyingMan"  src="/assets/img/flyingMan.png" alt="arrow">
 
-                    </div>
+                        </div>
+                        <div class="centered flex-column col-lg-6 col-md-10 col-sm-12 mainCtaWrap">
+                            <form class="mainCta" role="form">
+                                <div class="formHead">
+                                    <span>CONTACT US</span>
+                                </div>
+                                <div class="formBody d-flex flex-column align-content-center">
+                                    <legend>
+                                        <span>For after hours emergency bookings, please call on
+                                            <a href="tel:1800 620 227" class="red">1800 620 227</a>
+                                        </span>
+                                    </legend>
+                                    <div class="form-group">
+                                        <input type="text" class="mainCta_name" placeholder="name">
+                                        <input type="text" class="mainCta_phone" placeholder="phone">
+                                        <textarea rows="5" type="text" class="mainCta_text" placeholder="How can i help you?"></textarea>
+                                    </div>
+                                    <button class="sendBtn">rescue me</button>
+                                    <span class="formCaption">CLICK "BOOK MY JOB" TO SUBMIT YOUR FORM</span>
+                                </div>
+                            </form>
+                            <img class="flyingArrow"  src="/assets/img/Vector_Smart_Object.png" alt="arrow">
+                        </div>
+                    
                 </div>
             </section>
 
@@ -75,7 +104,7 @@
                         <!-- <a href="#"><i class="fa fa-twitter"></i></a>
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-vk"></i></a> -->
-                        <img src="assets/img/contactloop.gif" alt="contactloop">
+                        
                     </div>
                 </div>
                 <div class="row d-flex justify-content-center">
@@ -87,7 +116,6 @@
             <script src="assets/js/jquery-3.1.1.min.js"></script>
             <script src="assets/js/bootstrap.js"></script>
             <script src="assets/js/script.js"></script>
-            <script src="assets/js/js-landing+hash.js"></script>
             <script src="assets/js/jquery.bxslider.js"></script>
         </section>
         <!-- footer -->

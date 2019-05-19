@@ -1,3 +1,37 @@
+
+.mainAbout {
+    position: relative;
+}
+.mainHeading {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 25px;
+}
+.quotesBlock {
+    text-align: left;
+}
+  .quote {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    .name{
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+      letter-spacing: -0.2px;
+      line-height: 42px;
+    }
+    .secName{
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+      letter-spacing: -0.2px;
+      line-height: 42px;
+    }
+}
+
 .mainHeading{
     color: #1a232a;
     font-family: Raleway;
@@ -5,4 +39,113 @@
     font-weight: 700;
     line-height: 56.01px;
     text-transform: uppercase;
+}
+.aboutUs {
+    margin: 75px 0 65px 0;
+}
+.quotesBlock {
+    max-width: 450px;
+    height: 238px;
+    border: 1px solid #e1e1e1;
+    border-radius: 10px;
+    background-color: #ebebeb;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+.formHead {
+    background-color: #c0392b;
+    span{
+        color: #ffffff;
+        font-family: 'Raleway', sans-serif;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 61.27px;
+        text-transform: uppercase;
+    }
+}
+.formBody {
+    padding: 25px;
+}
+.mainCtaWrap {
+    position: relative;
+}
+.mainCta {
+    position: absolute;
+    top: -60px;
+    right: 0;
+    z-index: 1000;
+    legend{
+        color: #444444;
+        font-family: 'Lato', sans-serif;
+        font-size: 18px;
+        font-style: italic;
+        line-height: 26px;
+        text-align: left;
+        margin-bottom: 25px;
+    }
+    input {
+        border: 1px solid #e1e1e1;
+        background-color: #ffffff;
+        padding: 10px 20px;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    textArea {
+        border: 1px solid #e1e1e1;
+        background-color: #ffffff;
+        padding: 10px 20px;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    input::placeholder,
+    textArea::placeholder {
+        color: #5d5d5d;
+        font-family: 'Lato', sans-serif;
+        font-size: 16px;
+        font-style: italic;
+        line-height: 22px;
+    }
+    .sendBtn{
+        text-shadow: 0 2px 2px rgba(26, 35, 42, 0.5);
+        color: #ffffff;
+        font-family:'Raleway',sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        text-transform: uppercase;
+        border-radius: 40px;
+        border: none;
+        background-image: linear-gradient(to top, #82a501 0%, #bfd302 100%);
+        padding: 14px 38px;
+        outline: none !important;
+        cursor: pointer;
+        margin-bottom: 18px;
+        &:hover{
+            background: linear-gradient(to top, darken(#82a501, 10%) 0%, darken(#bfd302, 10%) 100%);
+            outline:none;
+        }
+        &:focus{
+            border: 3px solid #fcff00;
+        }
+    }
+    .formCaption {
+        color: #444444;
+        font-family: 'Lato', sans-serif;
+        font-size: 12px;
+        font-style: italic;
+        line-height: 22px;
+        text-transform: uppercase;
+    }
+}
+.flyingArrow {
+    position: absolute;
+    top: -120px;
+    right: 310px;
+    z-index: 1001;
+}
+.flyingMan {
+    position: absolute;
+    top: auto;
+    bottom: 0;
+    right: -45%;
+    z-index: 1001;
 }
